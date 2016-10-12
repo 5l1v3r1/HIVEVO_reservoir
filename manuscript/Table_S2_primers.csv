@@ -1,0 +1,23 @@
+Patient/Plasmid & Primer name & Sequence
+pAll &              \verb|alla_fwb1c_689d_705e|                            & \verb|ACG CAG GAC TCG GCT TGC | \\
+pAll &              \verb|all_fw2(nex)f _770_787|                          & \verb|(gTGC TCG GCA GCG TCA GAT GTG TAT AAG AGA CAG)h CGG AGG CTA GAA GGA GAG| \\
+p1-p5, p7, p8-p11 & \verb|p1_p2_p3_p4_p5_p7_p8_p9_p10_p11_rev1_1339_1321|  & \verb|AAT CTT GTG GGG TGG CTC C| \\
+p6 &                \verb|p6_rev1_1339_1321|                               & \verb|AAT CTG CTG GRG TGG CTC C| \\
+p1, p7, p8, p11 &   \verb|p1_p7_p8_p11_rev2(nex)_1101_1176|                & \verb|(GTC TCG TGG GCT CGG AGA TGT GTA TAA GAG ACA G)GT ATA GGG TAA TTT TGG CTG| \\
+p2 &                \verb|p2_rev2(nex)_1191-1176|                          & \verb|(GTC TCG TGG GCT CGG AGA TGT GTA TAA GAG ACA G)GT ATG GGG TAA TTT TGG CTG| \\
+p3 &                \verb|p3_rev2(nex)_1191-1176|                          & \verb|(GTC TCG TGG GCT CGG AGA TGT GTA TAA GAG ACA G)GT ATC GGG TAA TTT TGG CTG| \\
+p5 &                \verb|p5 _rev2(nex)_1191-1176|                         & \verb|(GTC TCG TGG GCT CGG AGA TGT GTA TAA GAG ACA G)GT ATA GGG WAA TTT TGG CTG| \\
+p6 &                \verb|p6_rev2(nex)_1191-1173|                          & \verb|(GTC TCG TGG GCT CGG AGA TGT GTA TAA GAG ACA G)GT ATA GGA TAA TTT TGG CTG| \\
+p9, p10 &           \verb|p9_p10_rev2(nex)_1191-1176|                      & \verb|(GTC TCG TGG GCT CGG AGA TGT GTA TAA GAG ACA G)GT ATA GGG TAA TTT TGR CTG| \\
+NL4-3 &             \verb|NL4-3_fw1_689_705|                               & \verb|ACG CAG GAC TCG GCT TGC| \\
+NL4-3 &             \verb|NL4-3_rev1_1339_1321|                            & \verb|AAT CTT GTG GGG TGG CTC C| \\
+NL4-3 &             \verb|NL4-3_fw2(nex)_770_787|                          & \verb|(TGC TCG GCA GCG TCA GAT GTG TAT AAG AGA CAG) CGG AGG CTA GAA GGA GAG| \\
+NL4-3 &             \verb|NL4-3_rev2(nex)_1191_1173|                       & \verb|(GTC TCG TGG GCT CGG AGA TGT GTA TAA GAG ACA G) TAT AGG GTA ATT TTG GCT G| \\
+a Patient number. &  &
+b Primer direction. &  &
+c Primer position, 1= outer primer 2= inner primer. &  &
+d Start position of the primer according to HXB2 coordinates. &  &
+e Stop position of the primer according to HXB2 coordinates. &  &
+f Nextera adapter. &  &
+g Start position of the NexteraXT adapter. &  &
+h Stop position of the NexteraXT adapter. &  &
